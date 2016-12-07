@@ -1,6 +1,8 @@
 # app
 iStat Menus
-iterm2 + zsh ?
+iterm2 + zsh
+  - plugins=(git docker history-substring-search zsh-autosuggestions)
+  - source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # brew
 bash-completion
