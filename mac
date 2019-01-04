@@ -13,8 +13,9 @@ docker
 
 ## Term Setting
 iterm2 + zsh + oh-my-zsh
+
+### oh-my-zsh
   - plugins=(git docker history-substring-search zsh-autosuggestions)
   - source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-
+  - ZSH_THEME="crunch"
 
