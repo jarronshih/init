@@ -1,10 +1,20 @@
-# app
-iStat Menus
-iterm2 + zsh
+## brew
+iterm
+atom
+bash-completion
+tree
+zsh
+zsh-syntax-highlighting
+python3
+pipenv
+
+## App
+docker
+
+## Term Setting
+iterm2 + zsh + oh-my-zsh
   - plugins=(git docker history-substring-search zsh-autosuggestions)
   - source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-# brew
-bash-completion
-tree
+
 
