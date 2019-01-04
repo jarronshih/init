@@ -24,6 +24,10 @@ docker
 ## Term Setting
 iterm2 + zsh + oh-my-zsh
 
+
+## Nally
+Chinese Font: STHeitiTC
+
 ### oh-my-zsh
 - ZSH_THEME="crunch"
 - plugins=(git docker history-substring-search zsh-autosuggestions)
