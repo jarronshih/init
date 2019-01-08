@@ -10,6 +10,7 @@ zsh
 zsh-syntax-highlighting
 python3
 pipenv
+autojump
 
 ### brew cask install 
 nally
