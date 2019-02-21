@@ -31,7 +31,7 @@ Chinese Font: STHeitiTC
 
 ### oh-my-zsh
 - ZSH_THEME="crunch"
-- plugins=(git docker history-substring-search zsh-autosuggestions)
+- plugins=(git docker history-substring-search zsh-autosuggestions autojump)
   - install zsh-autosuggestions
   - zsh-syntax-highlighting.zsh
 
